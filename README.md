@@ -1,6 +1,6 @@
 # SteeringWheel2015
 
-The Steering Wheel code is provided by the E-Team Squadra Corse as and Open Source project under the MIT license.
+The Steering Wheel code is provided by the E-Team Squadra Corse as an Open Source project under the MIT license.
 See the license file within this repo for further informations. 
 
 ## Authors 
